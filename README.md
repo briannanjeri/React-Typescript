@@ -1,2 +1,2 @@
 # React-Typescript
-how to use react with  typecript in building a crud application
+using react with  typecript to build a crud application
